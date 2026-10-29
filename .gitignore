@@ -9,3 +9,5 @@ data/action_history.jsonl
 .DS_Store
 Thumbs.db
 **/secrets.h
+config.bat
+node_modules
