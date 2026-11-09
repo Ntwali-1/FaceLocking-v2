@@ -26,7 +26,6 @@ Keys:
 """
 from __future__ import annotations
 
-import utils.session
 import argparse
 import time
 from typing import Optional
